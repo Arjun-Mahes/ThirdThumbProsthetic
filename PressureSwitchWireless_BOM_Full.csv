@@ -1,0 +1,41 @@
+Section,Designator,Qty per board,Qty to order (2 boards),Description,Package,Manufacturer,Mfr Part #,Supplier,Supplier Part #,Type,Unit price,Currency,Ext price (CAD),Link / notes
+A. Assembled by JLCPCB,U1,1,2,nRF52810 BLE SoC,QFN-32 5x5,Nordic Semiconductor,NRF52810-QCAA-R,JLCPCB / LCSC,C519278,Extended,3.1262,USD,8.57,https://jlcpcb.com/partdetail/NordicSemicon-nRF52810_QCAAR/C519278
+A. Assembled by JLCPCB,"C1, C2",2,4,Cap 12pF C0G ±5% 50V (32MHz crystal load),0402,FH,0402CG120J500NT,JLCPCB / LCSC,C1547,Basic,0.0036,USD,0.02,https://jlcpcb.com/partdetail/1899-0402CG120J500NT/C1547
+A. Assembled by JLCPCB,C3,1,20,Cap 0.8pF C0G ±0.05pF 50V (RF match),0402,Murata,GJM1555C1HR80WB01D,JLCPCB / LCSC,C88902,Extended,0.0404,USD,1.11,https://jlcpcb.com/partdetail/MurataElectronics-GJM1555C1HR80WB01D/C88902
+A. Assembled by JLCPCB,"C4, C5, C8",3,6,Cap 100nF X7R ±10% 16V (decoupling),0402,Samsung,CL05B104KO5NNNC,JLCPCB / LCSC,C1525,Basic,0.0045,USD,0.04,https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525
+A. Assembled by JLCPCB,C7,1,2,Cap 100pF C0G ±5% 50V (DEC3),0402,FH,0402CG101J500NT,JLCPCB / LCSC,C1546,Basic,0.0042,USD,0.01,https://jlcpcb.com/partdetail/1898-0402CG101J500NT/C1546
+A. Assembled by JLCPCB,C9,1,2,Cap 4.7uF X5R ±10% 16V (VDD),0603,Samsung,CL10A475KO8NNNC,JLCPCB / LCSC,C19666,Basic,0.0295,USD,0.08,https://jlcpcb.com/partdetail/20375-CL10A475KO8NNNC/C19666
+A. Assembled by JLCPCB,C10,1,2,Cap 1uF X5R ±10% 50V (DEC4),0603,Samsung,CL10A105KB8NNNC,JLCPCB / LCSC,C15849,Basic,0.0168,USD,0.05,https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849
+A. Assembled by JLCPCB,"C14, C15",2,4,Cap 47uF X5R ±20% 6.3V (coin-cell bulk),0805,Samsung,CL21A476MQYNNNE,JLCPCB / LCSC,C16780,Basic,0.1148,USD,0.63,https://jlcpcb.com/partdetail/17464-CL21A476MQYNNNE/C16780
+A. Assembled by JLCPCB,D1,1,2,Schottky 40V 1A (battery reverse-feed protection),SOD-123,Changjiang (JSCJ),B5819W SL,JLCPCB / LCSC,C8598,Basic,0.028,USD,0.08,https://jlcpcb.com/partdetail/9093-B5819WSL/C8598
+A. Assembled by JLCPCB,J1,1,5,u.FL RF connector 50Ω,U.FL SMD,Hirose,U.FL-R-SMT-1(80),JLCPCB / LCSC,C88374,Extended,0.1096,USD,0.75,https://jlcpcb.com/partdetail/HRS_Hirose-U_FL_R_SMT_1_80/C88374
+A. Assembled by JLCPCB,L1,1,20,Inductor 3.9nH ±0.1nH (RF match),0402,Murata,LQG15HS3N9B02D,JLCPCB / LCSC,C5452416,Extended,0.0574,USD,1.57,https://jlcpcb.com/partdetail/MurataElectronics-LQG15HS3N9B02D/C5452416
+A. Assembled by JLCPCB,L2,1,5,"Inductor 10uH ±20%, 60mA (DC/DC)",0603,TDK,MLZ1608N100LT000,JLCPCB / LCSC,C194437,Extended,0.0769,USD,0.53,https://jlcpcb.com/partdetail/TDK-MLZ1608N100LT000/C194437
+A. Assembled by JLCPCB,L3,1,20,"Inductor 15nH ±5%, 300mA (DC/DC)",0402,Sunlord,SDCL1005C15NJTDF,JLCPCB / LCSC,C27143,Preferred,0.006,USD,0.16,https://jlcpcb.com/partdetail/Sunlord-SDCL1005C15NJTDF/C27143
+A. Assembled by JLCPCB,R2,1,2,Resistor 10k ±1% 100mW (FSR divider),0603,UNI-ROYAL,0603WAF1002T5E,JLCPCB / LCSC,C25804,Basic,0.0018,USD,0.0,https://jlcpcb.com/partdetail/26547-0603WAF1002T5E/C25804
+A. Assembled by JLCPCB,X1,1,5,Crystal 32MHz CL 8pF ±10/±20ppm 60Ω,2016 4-pad,Epson,Q22FA12800043,JLCPCB / LCSC,C1986927,Extended,0.2561,USD,1.75,https://jlcpcb.com/partdetail/SeikoEpson-Q22FA12800043/C1986927
+B. JLCPCB board + assembly fees,,,,PCB fabrication (5 bare boards is JLC minimum; 2 get assembled),,JLCPCB,,JLCPCB,,Fee,,CAD,7.34,JLC quote 1 Oct 2026 – same price for 2 or 5 assembled
+B. JLCPCB board + assembly fees,,,,Assembly setup fee,,JLCPCB,,JLCPCB,,Fee,,CAD,11.63,JLC quote 27 Sep 2026
+B. JLCPCB board + assembly fees,,,,Stencil,,JLCPCB,,JLCPCB,,Fee,,CAD,2.19,JLC quote 27 Sep 2026
+B. JLCPCB board + assembly fees,,,,SMT assembly,,JLCPCB,,JLCPCB,,Fee,,CAD,0.86,JLC quote 27 Sep 2026 (for 5 boards) – slightly less for 2
+B. JLCPCB board + assembly fees,,,,Nitrogen reflow,,JLCPCB,,JLCPCB,,Fee,,CAD,1.21,JLC quote 27 Sep 2026
+B. JLCPCB board + assembly fees,,,,Shipping (UPS Express shown; cheaper options ~C$10–20),,JLCPCB,,JLCPCB,,Fee,,CAD,38.19,JLC quote 1 Oct 2026 – change to the method you pick
+B. JLCPCB board + assembly fees,,,,Coupon (enter as negative),,JLCPCB,,JLCPCB,,Fee,,CAD,0,Apply any JLC coupon at checkout
+B. JLCPCB board + assembly fees,,,6,Extended part fees (count of 'Extended' rows × fee per type),,JLCPCB,,JLCPCB,,Fee,,CAD,26.16,Excludes L3 (Preferred). Add C$4.36 if JLC charges it.
+C. Buy separately & hand-solder,BT1,1,2,"CR2032 coin cell holder, SMD",SMD,Keystone,3034TR,DigiKey,36-3034CT-ND,Hand-solder,0.76,CAD,1.52,https://www.digikey.ca/en/products/result?keywords=36-3034CT-ND
+C. Buy separately & hand-solder,FSR,1,2,"Force sensing resistor, 5 kgf",Solder tabs,Ohmite,FSR06BE,DigiKey,FSR06BE-ND,Hand-solder,9.54,CAD,19.08,https://www.digikey.ca/en/products/result?keywords=FSR06BE
+C. Buy separately & hand-solder,P1,1,2,5-pin header 2.54mm vertical (SWD programming),THT,Würth Elektronik,61300511121,DigiKey,732-5318-ND,Hand-solder,0.37,CAD,0.74,https://www.digikey.ca/en/products/result?keywords=732-5318-ND
+C. Buy separately & hand-solder,Antenna,1,2,"2.4GHz flex antenna, 100mm cable, u.FL (plugs into J1, no soldering)",Adhesive,Molex,146153-0100,DigiKey,WM12218-ND,No solder,4.05,CAD,8.1,50mm: 146153-0050 C$3.55; 150mm: 146153-0150 C$4.55
+C. Buy separately & hand-solder,Battery,1,2,CR2032 3V lithium coin cell,CR2032,"Any (Panasonic, Energizer…)",CR2032,Local store,—,No solder,1.5,CAD,3,Estimate – price varies by store
+TOTAL,,,,JLC parts (A),,,,,,,,CAD,15.35,
+TOTAL,,,,JLC fees + shipping (B),,,,,,,,CAD,87.58,
+TOTAL,,,,Hand-solder parts (C),,,,,,,,CAD,32.44,
+TOTAL,,,,Grand total,,,,,,,,CAD,135.37,
+TOTAL,,,,Cost per board,,,,,,,,CAD,67.68,
+D. On the board but NOT fitted,X2,0,0,32.768kHz crystal – optional; chip uses internal RC clock,,,,,,Not fitted,,,0,
+D. On the board but NOT fitted,"C11, C12",0,0,12pF load caps for X2 – not needed without X2,,,,,,Not fitted,,,0,
+D. On the board but NOT fitted,"C6, C13",0,0,N.C. in Nordic's reference design too,,,,,,Not fitted,,,0,
+D. On the board but NOT fitted,C16,0,0,DNP spare pad on RF line,,,,,,Not fitted,,,0,
+E. Tools,Programmer,,,"nRF52 DK – onboard J-Link, can program your board via Debug out; also emulates nRF52810",,Nordic,NRF52-DK,DigiKey,1490-1053-ND,Optional tool (not in total),54.69,CAD,,Recommended
+E. Tools,Programmer (alt),,,J-Link EDU Mini (non-commercial use),,SEGGER,8.08.91,DigiKey,8.08.91,Optional tool (not in total),108.33,CAD,,Needs 1.27→2.54mm adapter
+E. Tools,Wires,,,Female-female jumper wires 2.54mm,,Any,—,DigiKey,—,Optional tool (not in total),,CAD,,Plus a 1.27→2.54mm adapter for DK/EDU Mini

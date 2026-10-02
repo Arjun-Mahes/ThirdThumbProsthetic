@@ -1,6 +1,6 @@
-Designator,Description,Manufacturer,Mfr Part #,DigiKey Part #,DigiKey Link,Unit Price (USD approx),Qty (5 boards),Notes
-BT1,CR2032 coin cell holder SMD,Keystone,3034TR,36-3034CT-ND,https://www.digikey.com/en/products/result?keywords=36-3034CT-ND,0.76,5,Solder side tabs with flux
-FSR,Force sensing resistor,Ohmite,FSR06BE,FSR06BE-ND,https://www.digikey.com/en/products/result?keywords=FSR06BE-ND,9.54,5,Most expensive item - buy only as many as boards you'll build
-P1,5-pin header 2.54mm vertical,Wurth Elektronik,61300511121,732-5318-ND,https://www.digikey.com/en/products/result?keywords=732-5318-ND,0.37,5,Only needed on boards you program
-Antenna,2.4GHz flex antenna with u.FL cable 50mm (plugs into J1),Molex,146153-0050,WM17084-ND,https://www.digikey.com/en/products/result?keywords=WM17084-ND,3.55,5,No soldering; 100mm cable version is 146153-0100 (WM12218-ND)
-Battery,CR2032 3V lithium coin cell,Any (Panasonic/Energizer),CR2032,,,1.00,5,Buy locally or on DigiKey
+Designator,Description,Manufacturer,Mfr Part #,DigiKey Part #,DigiKey Link,Unit Price (CAD),Qty (2 boards),Notes
+BT1,CR2032 coin cell holder SMD,Keystone,3034TR,36-3034CT-ND,https://www.digikey.ca/en/products/result?keywords=36-3034CT-ND,0.76,2,Solder side tabs with flux
+FSR,Force sensing resistor,Ohmite,FSR06BE,FSR06BE-ND,https://www.digikey.ca/en/products/result?keywords=FSR06BE,9.54,2,Solder tabs
+P1,5-pin header 2.54mm vertical,Wurth Elektronik,61300511121,732-5318-ND,https://www.digikey.ca/en/products/result?keywords=732-5318-ND,0.37,2,Only needed on boards you program
+Antenna,2.4GHz flex antenna with u.FL cable 100mm (plugs into J1),Molex,146153-0100,WM12218-ND,https://www.digikey.ca/en/products/result?keywords=WM12218-ND,4.05,2,No soldering; 50mm = 146153-0050 (C$3.55); 150mm = 146153-0150 (C$4.55)
+Battery,CR2032 3V lithium coin cell,Any (Panasonic/Energizer),CR2032,,,1.50,2,Buy locally (price estimate)
