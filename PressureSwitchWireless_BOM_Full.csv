@@ -1,8 +1,7 @@
-Item,Description,Manufacturer,Mfr Part #,Supplier,Supplier Part #,Qty,Unit price (CAD),Ext price (CAD),Notes
-Fabrication cost (PCBA),"JLCPCB: 5 bare PCBs + 2 assembled boards (19 SMD parts incl. nRF52810, crystal, RF match, u.FL)",JLCPCB,—,JLCPCB,—,1,62.63,62.63,"JLC quote 2 Oct 2026: PCB C$5.68 + PCBA C$56.95. Excludes shipping."
-BT1,"CR2032 coin cell holder, SMD",Keystone,3034TR,DigiKey,36-3034CT-ND,2,0.76,1.52,Hand-solder
-FSR,"Force sensing resistor, 5 kgf",Ohmite,FSR06BE,DigiKey,FSR06BE-ND,2,9.54,19.08,Hand-solder
-P1,"5-pin header, 2.54 mm vertical (SWD programming)",Würth Elektronik,61300511121,DigiKey,732-5318-ND,2,0.37,0.74,Hand-solder
-Antenna,"2.4 GHz flex antenna, 100 mm cable, u.FL (plugs into J1)",Molex,146153-0100,DigiKey,WM12218-ND,2,4.05,8.10,No soldering
-Battery,CR2032 3 V lithium coin cell,Any,CR2032,Local store,—,2,1.50,3.00,Price estimate
-TOTAL,,,,,,,,95.07,"2 boards, excluding shipping"
+Part,Description,Qty,Unit,Total,Vendor
+Fabrication cost (PCBA),"JLCPCB: 5 bare PCBs + 2 assembled boards (19 SMD parts incl. nRF52810, crystal, RF match, u.FL)",1,62.63,62.63,JLCPCB
+BT1,"CR2032 coin cell holder, SMD (Keystone 3034TR, DigiKey 36-3034CT-ND)",2,0.76,1.52,DigiKey
+FSR,"Force sensing resistor, 5 kgf (Ohmite FSR06BE, DigiKey FSR06BE-ND)",2,9.54,19.08,DigiKey
+P1,"5-pin header, 2.54 mm vertical, SWD programming (Würth 61300511121, DigiKey 732-5318-ND)",2,0.37,0.74,DigiKey
+Antenna,"2.4 GHz flex antenna, 100 mm cable, u.FL, plugs into J1 (Molex 146153-0100, DigiKey WM12218-ND)",2,4.05,8.10,DigiKey
+Battery,CR2032 3 V lithium coin cell,2,1.50,3.00,Local store
